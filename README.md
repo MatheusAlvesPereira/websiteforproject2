@@ -1,3 +1,3 @@
-# website W2
+# website w2
 
 this website just show how to works the mobile app 
